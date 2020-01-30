@@ -80,3 +80,5 @@ gen
 
 #
 *.txt
+.ipynb_checkpoints
+.ipynb
