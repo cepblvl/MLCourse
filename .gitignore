@@ -80,5 +80,5 @@ gen
 
 #
 *.txt
-.ipynb_checkpoints
 .ipynb
+*/.ipynb_checkpoints/*
